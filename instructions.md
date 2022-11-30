@@ -22,6 +22,7 @@ Replace the contents of the [README.md](./README.md) file with a beautifully-for
 
 - a plain-language **description** of your project, including:
 - [badges](https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/adding-a-workflow-status-badge) at the top of the `README.md` file showing the result of the latest CI/CD of each subsystem.
+- links to the container images for each custom subsystem, hosted on [DockerHub](https://hub.docker.com).
 - the names of all teammates as links to their GitHub profiles.
 - instructions for how to configure and run all parts of your project for any developer on any platform - these instructions must work!
 - instructions for how to import any starter data into the database, if necessary for the system to operate correctly at first.
