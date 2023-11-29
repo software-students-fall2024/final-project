@@ -24,4 +24,4 @@ Replace the contents of the [README.md](./README.md) file with a beautifully-for
 - links to the container images for each custom subsystem, hosted on [DockerHub](https://hub.docker.com).
 - the names of all teammates as links to their GitHub profiles.
 - instructions for how to configure and run all parts of your project for any developer on any platform - these instructions must work!
-- instructions for how to set up an environment variables and import any starter data into the database, if necessary for the system to operate correctly at first.
+- instructions for how to set up any environment variables and import any starter data into the database, as necessary, for the system to operate correctly when run.
