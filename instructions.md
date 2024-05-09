@@ -25,3 +25,4 @@ Replace the contents of the [README.md](./README.md) file with a beautifully-for
 - the names of all teammates as links to their GitHub profiles.
 - instructions for how to configure and run all parts of your project for any developer on any platform - these instructions must work!
 - instructions for how to set up any environment variables and import any starter data into the database, as necessary, for the system to operate correctly when run.
+- if there are any "secret" configuration files, such as `.env` or similar files, that are not included in the version control repository, exact instructions for how to create them and what their contents should be must be supplied to the course admins by the due date.
